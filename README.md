@@ -13,10 +13,6 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-### :woman_technologist: About Me :
-I'm Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
