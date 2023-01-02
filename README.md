@@ -14,6 +14,12 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ---
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 💬 Ask me about anything, I'm happy to help;
+- ⚡️ Fun-Fact: Anything is possible;
+- 📫 How to reach me: sumeyyesaricam95@gmail.com;
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
